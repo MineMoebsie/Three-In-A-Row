@@ -1,0 +1,1 @@
+{'games_won': [1, 2, 3, 0], 'games_lost': [5, 4, 2, 0], 'games_tied': [1, 1, 1, 0], 'blocks_placed': [140, 136, 111, 30], 'area_covered': [110, 117, 101, 21], 'total_map_expansions': 17, 'games_played': 7}
